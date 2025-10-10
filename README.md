@@ -5,7 +5,7 @@ Built entirely with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
 ---
 
-## 🕹️ How to Play
+##  How to Play
 
 1. Enter a number between 1 and 10  
 2. You'll get hints if your guess is too high or too low  
@@ -14,7 +14,7 @@ Built entirely with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🎨 Custom alert modals (no boring `alert()`s)
 - 📱 Responsive design (mobile & desktop)
@@ -24,7 +24,7 @@ Built entirely with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3**
